@@ -36,8 +36,8 @@
   <a style="margin-left: 5px;" href="http://rogertakeshita.com" target="_blank">
       <img alt="Portfolio URL" src="https://img.shields.io/badge/-Portfolio-grey?style=flat-square&logo=Safari&logoColor=lightblue">
   </a>
-  <a style="margin-left: 5px;" href="" target="_blank">
-      <img alt="Portfolio URL" src="https://img.shields.io/badge/-Resume-grey?style=flat-square&logo=Adobe%20Acrobat%20Reader&logoColor=red">
+  <a style="margin-left: 5px;" href="https://www.rogertakeshita.com/Resume_-_Roger_Takeshita.pdf" target="_blank">
+      <img alt="Resume URL" src="https://img.shields.io/badge/-Resume-grey?style=flat-square&logo=Adobe%20Acrobat%20Reader&logoColor=red">
   </a>
 </a>
 </div>
